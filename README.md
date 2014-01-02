@@ -1,7 +1,6 @@
 # HTML5 : Production Ready Template
-=============================
 
-A clean way to bootstrap you new project with some sensible defaults.
+A clean way to bootstrap your new project with some sensible defaults.
 
 ## What comes included?
 
