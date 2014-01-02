@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+html{
+	background-color: #f7f7f9;
+}
+
+body{
+	background-color: #fff;
+	border-bottom: 1px solid #ccc;
+}
+
+div#container{
+	max-width: 800px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+h1{
+	 color:#333; 
+	 font-family: 'Tangerine', cursive; 
+	 font-size: 128px;
+}
+
+figure{
+	margin: 0 auto;
+	width: 256px;
+	padding-bottom: 20px;
+}
+
+footer p{
+	font-family: sans-serif;
+	color: #777;
+}
